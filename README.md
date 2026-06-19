@@ -1,8 +1,8 @@
 # StellarVault
 
-[![StellarVault CI](https://github.com/jorgesoares2997/stellar-green-belt/actions/workflows/ci.yml/badge.svg)](https://github.com/jorgesoares2997/stellar-green-belt/actions/workflows/ci.yml)
+[![StellarVault CI](https://github.com/jorgesoares2997/stellar-orange-belt-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/jorgesoares2997/stellar-orange-belt-vault/actions/workflows/ci.yml)
 
-StellarVault is a Soroban-based DeFi vault demo for Stellar Green Belt. Users deposit tokens into a Vault contract, the Vault performs an inter-contract call into a Liquidity Pool contract, and the frontend provides wallet-driven interactions with live activity updates from RPC events.
+StellarVault is a Soroban-based DeFi vault demo for Stellar Orange Belt. Users deposit tokens into a Vault contract, the Vault performs an inter-contract call into a Liquidity Pool contract, and the frontend provides wallet-driven interactions with live activity updates from RPC events.
 
 ## Live Demo
 
