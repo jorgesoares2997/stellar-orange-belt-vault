@@ -6,7 +6,7 @@ StellarVault is a Soroban-based DeFi vault demo for Stellar Orange Belt. Users d
 
 ## Live Demo
 
-- Frontend: [https://stellar-orange-belt-frontend.vercel.app/](https://stellar-green-belt-frontend.vercel.app/)
+- Frontend: [https://stellar-orange-belt-frontend.vercel.app/](https://stellar-orange-belt-frontend.vercel.app/)
 
 ## Mobile Responsive Screenshot
 
@@ -16,7 +16,7 @@ StellarVault is a Soroban-based DeFi vault demo for Stellar Orange Belt. Users d
 
 - Demonstrate Soroban inter-contract architecture in a realistic dApp flow.
 - Show end-to-end execution from wallet signature to on-chain event display.
-- Provide a submission-ready reference for Green Belt requirements.
+- Provide a submission-ready reference for Orange Belt requirements.
 
 ## Tech Stack
 
@@ -203,11 +203,11 @@ GitHub Actions workflow: `.github/workflows/ci.yml`
 - Recommended improvements (for future commits):
   - Prefer `docs:` over `update:` for documentation changes.
   - Keep each commit scoped, e.g.:
-    - `docs: add Green Belt deployment verification section`
+    - `docs: add Orange Belt deployment verification section`
     - `fix(frontend): prepare soroban tx before wallet signing`
     - `chore(ci): align frontend build cache with package manager`
 
-## Green Belt Checklist Mapping
+## Orange Belt Checklist Mapping
 
 - [x] Project overview
 - [x] Tech stack
@@ -221,4 +221,4 @@ GitHub Actions workflow: `.github/workflows/ci.yml`
 
 ---
 
-Built for Stellar Green Belt submission.
+Built for Stellar Orange Belt submission.
