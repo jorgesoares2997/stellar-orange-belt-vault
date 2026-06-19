@@ -6,7 +6,7 @@ StellarVault is a Soroban-based DeFi vault demo for Stellar Orange Belt. Users d
 
 ## Live Demo
 
-- Frontend: [https://stellar-green-belt-frontend.vercel.app/](https://stellar-green-belt-frontend.vercel.app/)
+- Frontend: [https://stellar-orange-belt-frontend.vercel.app/](https://stellar-green-belt-frontend.vercel.app/)
 
 ## Mobile Responsive Screenshot
 
